@@ -1,0 +1,29 @@
+data aos  effect
+{{
+fade-up
+fade-down
+fade-right
+fade-left
+fade-(up/down)-(right/left)
+
+
+flip-left
+flip-right
+flip-up
+flip-down
+
+
+zoom-in
+zoom-in-up
+zoom in-down(right/left)
+
+
+zoom-out
+}}
+
+data-aos-easing{
+
+linear
+ease-in-sine
+ease-in-back
+ease-out-cubic
